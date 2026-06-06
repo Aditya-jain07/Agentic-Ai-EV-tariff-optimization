@@ -1,0 +1,2 @@
+total_test_samples,r2_score,mean_absolute_error_kwh,root_mean_squared_error_kwh,p95_absolute_error_kwh,mean_actual_kwh,median_actual_kwh
+38547,0.9787703707990913,57.01361763423563,180.11357199959764,327.74459640860897,450.71752227284907,76.032916666
