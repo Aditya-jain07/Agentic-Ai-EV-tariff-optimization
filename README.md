@@ -6,7 +6,7 @@
 
 ---
 
-## project resources
+## Project resources
 
 https://docs.google.com/presentation/d/1KS6tvrILtOb9kIDvxBoy9OUE7yyElKLS/edit?usp=drive_link&ouid=108800960855133179540&rtpof=true&sd=true
 
@@ -155,7 +155,7 @@ Caltech ACN workplace charging sessions (25 Apr 2018 – 16 Dec 2018). Flat dema
 
 ---
 
-## understanding the outputs
+## Understanding the outputs
 
 ###  Most Important Outputs
 
