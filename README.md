@@ -8,7 +8,7 @@
 
 ## Project resources
 
-https://docs.google.com/presentation/d/1KS6tvrILtOb9kIDvxBoy9OUE7yyElKLS/edit?usp=drive_link&ouid=108800960855133179540&rtpof=true&sd=true
+https://drive.google.com/file/d/1xCsWaHbuLPvZ0cII1MAhI57O4IHv0vad/view?usp=drive_link
 
 ---
 
